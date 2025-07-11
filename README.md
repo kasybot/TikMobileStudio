@@ -1,45 +1,98 @@
 # 🎥 TikMobileStudio
 
 <p align="center">
-  <img src="logo.jpg" alt="Logo TikMobileStudio" width="200"/>
+  <img src="logo.jpg" alt="TikMobileStudio Logo" width="200"/>
 </p>
 
-**TikMobileStudio** est une application Android qui te permet de **faire des lives TikTok avec ta caméra frontale**, sans accessoire externe ni système complexe.
+---
+
+## 🇫🇷 Présentation
+
+**TikMobileStudio** est une application Android qui te permet de **faire des lives TikTok avec ta caméra frontale**, sans accessoires ou logiciels complexes.
 
 ---
 
 ## 🚀 Fonctionnalités principales
 
-- 📸 Affiche un pop-up avec ta **caméra frontale** directement sur TikTok
-- 🪟 Affiche aussi ton **pseudo** pendant le live
-- 🎮 Idéal pour les **sessions de jeux**, les lives chill ou créatifs
-- ⚙️ **Superposition automatique** pour passer facilement en live
-- 🔐 Aucune connexion à un compte TikTok nécessaire
+- 📸 Affiche un pop-up avec ta **caméra frontale** directement dans ton live TikTok
+- 🪟 Ajoute ton **pseudo TikTok**
+- 🎮 Idéal pour les sessions **gaming**, les lives détente ou créatifs
+- ⚙️ Gère automatiquement les autorisations de **caméra** et de **superposition**
+- 🧩 Utilisation simple, rapide, efficace
 
 ---
 
 ## 🧭 Comment ça marche ?
 
 1. ✅ Accepte l’autorisation **caméra**
-2. ✅ Autorise la **superposition d'application**
-3. ✅ Lance ton live TikTok avec **TikMobileStudio** actif
+2. ✅ Autorise la **superposition d’application**
+3. ✅ Lance ton live TikTok avec TikMobileStudio ouvert : tu es prêt !
 
 ---
 
 ## 📦 Télécharger l’APK
 
-Tu peux installer l’application manuellement sur Android :
+Installe l’application manuellement sur Android :
 
 🔗 **[Télécharger TikMobileStudio 1.0 (APK)](https://github.com/kasybot/TikMobileStudio/blob/main/TikMobileStudio-1.0-release.apk?raw=true)**
 
 ---
 
-## 🛠️ À propos
+## 🖼️ Aperçu de TikMobileStudio
 
-- Version : **1.0**
-- Créé par : **kasyko**
-- Licence : [MIT](LICENSE)
+<table>
+  <tr>
+    <td><img src="communication/pt1.jpg" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="communication/pt2.jpg" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="communication/pt3.jpg" width="600"/></td>
+  </tr>
+</table>
 
 ---
 
-> 💡 Ce projet est open-source. Tu peux contribuer, forker, modifier… et l’utiliser librement !
+## ℹ️ À propos
+
+- Version : **1.0**
+- Auteur : **kasyko**
+- Licence : [MIT](LICENSE)
+
+> 💡 Ce projet est open-source. Forke-le, modifie-le, utilise-le librement !
+
+---
+
+## 🇬🇧 English Version
+
+<p align="center">
+  <img src="logo.jpg" alt="TikMobileStudio Logo" width="200"/>
+</p>
+
+**TikMobileStudio** is a lightweight Android app that lets you **stream live on TikTok using your front camera**, without any external tools or complicated setup.
+
+---
+
+### Features
+- Front camera popup during your TikTok Live
+- Display your username
+- Perfect for live gaming, chill sessions or creative content
+- No TikTok account connection required
+- No system overlay tricks, just works
+
+---
+
+### Download
+
+🔗 **[Download TikMobileStudio 1.0 (APK)](https://github.com/kasybot/TikMobileStudio/blob/main/TikMobileStudio-1.0-release.apk?raw=true)**
+
+---
+
+### About
+
+- Version: 1.0  
+- Created by: **kasyko**  
+- License: [MIT](LICENSE)
+
+> This project is open-source – feel free to fork and improve it!
