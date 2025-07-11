@@ -1,33 +1,43 @@
-# TikMobileStudio
+# 🎥 TikMobileStudio
 
-🎥 **TikMobileStudio** est une application Android permettant de faire des lives TikTok directement depuis un smartphone avec gestion de caméra, scènes et overlays.
+![TikMobileStudio Logo](logo.jpg)
+
+**TikMobileStudio** est une application Android qui te permet de **faire des lives TikTok avec ta caméra frontale**, sans accessoire externe ni système complexe.
+
+---
 
 ## 🚀 Fonctionnalités principales
 
-- Activation de la caméra avant/arrière
-- Service foreground pour rester actif en live
-- Changement de scène fluide (préparé pour intégrer overlays)
-- Interface légère et simple
+- 📸 Affiche un pop-up avec ta **caméra frontale** directement sur TikTok
+- 🪟 Affiche aussi ton **pseudo** pendant le live
+- 🎮 Idéal pour les **sessions de jeux**, les lives chill ou créatifs
+- ⚙️ **Superposition automatique** pour passer facilement en live
+- 🔐 Aucune connexion à un compte TikTok nécessaire
 
-## 🛠️ Technologies
+---
 
-- Java (Android SDK)
-- Android Studio
-- Services & permissions Android (caméra, foreground service)
+## 🧭 Comment ça marche ?
 
-## 📦 Installation
+1. ✅ Accepte l’autorisation **caméra**
+2. ✅ Autorise la **superposition d'application**
+3. ✅ Lance ton live TikTok avec **TikMobileStudio** actif
 
-1. Cloner le repo :
-```bash
-git clone https://github.com/kasybot/TikMobileStudio.git
-```
-2. Ouvrir dans Android Studio
-3. Build & lancer l'app
+---
 
-## 🤝 Contribution
+## 📦 Télécharger l’APK
 
-Tu veux contribuer ? Vas-y ! Fais un fork, une PR ou ouvre une issue 🚀
+Tu peux installer l’application manuellement sur Android :
 
-## 📄 Licence
+🔗 **[Télécharger TikMobileStudio 1.0 (APK)](https://github.com/kasybot/TikMobileStudio/blob/main/TikMobileStudio-1.0-release.apk?raw=true)**
 
-Ce projet est sous licence MIT – voir le fichier [LICENSE](LICENSE) pour plus d'infos.
+---
+
+## 🛠️ À propos
+
+- Version : **1.0**
+- Créé par : **kasyko**
+- Licence : [MIT](LICENSE)
+
+---
+
+> 💡 Ce projet est open-source. Tu peux contribuer, forker, modifier… et l’utiliser librement !
