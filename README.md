@@ -1,6 +1,8 @@
 # 🎥 TikMobileStudio
 
-![TikMobileStudio Logo](logo.jpg)
+<p align="center">
+  <img src="logo.jpg" alt="Logo TikMobileStudio" width="200"/>
+</p>
 
 **TikMobileStudio** est une application Android qui te permet de **faire des lives TikTok avec ta caméra frontale**, sans accessoire externe ni système complexe.
 
